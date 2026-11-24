@@ -10,7 +10,10 @@
 // meeting about the deadline. The agent is not blaming traffic or the
 // user; it is describing its own memory management, and the thing that
 // pushed the deadline out is the very meeting convened to discuss it.
-// One sentence, one twist, landing on its last word.
+// One sentence, one twist, landing on its last word. Against the judge's
+// brief: on-subject (an excuse for a missed deadline), believable (context
+// eviction is how an agent actually loses track), tight (every word earns
+// its place), and fresh (no stock "I ran out of tokens" flat statement).
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
